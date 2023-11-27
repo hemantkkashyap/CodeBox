@@ -41,6 +41,22 @@ Our project is built on the following principles:
 - **Top-Tier Security:** Implementing robust security measures to protect user data and privacy.
 - **Seamless User Experience:** Ensuring a smooth and intuitive interaction for optimal user satisfaction.
 
+## Screenshots
+
+Here are some screenshots from the FileRevolution Desktop Application:
+
+![Screenshot (381)](https://github.com/hemant052004/CodeBox/assets/122628923/6a68c683-2d24-486f-8fab-bab1f9916ae5)
+*Login Page*
+
+![Screenshot (382)](https://github.com/hemant052004/CodeBox/assets/122628923/8343423e-1cd8-4359-a21c-2caa93769633)
+*Dashboard*
+
+![Screenshot (383)](https://github.com/hemant052004/CodeBox/assets/122628923/f5954f55-39ec-4d03-addb-c27baf0b8b4a)
+*Files*
+
+![Screenshot (384)](https://github.com/hemant052004/CodeBox/assets/122628923/c5d9feac-142c-4e83-bfe0-5964ca448911)
+*Game*
+
 ## Contributors
 
 This project is a collaborative effort by:
