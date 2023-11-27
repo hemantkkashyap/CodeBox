@@ -50,4 +50,4 @@ This project is a collaborative effort by:
 
 We appreciate the hard work and dedication put into developing and maintaining this project.
 
-Thank you for using FileRevolution! We hope it transforms your file management experience.
+Thank you for using File Managment! We hope it transforms your file management experience.
