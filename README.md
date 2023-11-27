@@ -43,7 +43,7 @@ Our project is built on the following principles:
 
 ## Screenshots
 
-Here are some screenshots from the FileRevolution Desktop Application:
+Here are some screenshots from the File Managment Desktop Application:
 
 ![Screenshot (381)](https://github.com/hemant052004/CodeBox/assets/122628923/6a68c683-2d24-486f-8fab-bab1f9916ae5)
 *Login Page*
