@@ -60,7 +60,7 @@ This project is a collaborative effort by:
   
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE) file for details.
 
 We appreciate the hard work and dedication put into developing and maintaining this project.
 
