@@ -51,12 +51,6 @@ Here are some screenshots from the File Managment Desktop Application:
 ![Screenshot (382)](https://github.com/hemant052004/CodeBox/assets/122628923/8343423e-1cd8-4359-a21c-2caa93769633)
 *Dashboard*
 
-![Screenshot (383)](https://github.com/hemant052004/CodeBox/assets/122628923/f5954f55-39ec-4d03-addb-c27baf0b8b4a)
-*Files*
-
-![Screenshot (384)](https://github.com/hemant052004/CodeBox/assets/122628923/c5d9feac-142c-4e83-bfe0-5964ca448911)
-*Game*
-
 ## Contributors
 
 This project is a collaborative effort by:
