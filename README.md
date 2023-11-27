@@ -57,6 +57,10 @@ This project is a collaborative effort by:
 
 - [Hemant Kumar Kashyap](https://github.com/hemant052004)
 - [Pooja Singhad](https://github.com/friendsusername)
+  
+## License
+
+This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
 
 We appreciate the hard work and dedication put into developing and maintaining this project.
 
