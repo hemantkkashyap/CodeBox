@@ -1,10 +1,9 @@
 # CODEBOX
-# File Managmnet Desktop Application
-
+# File Managment Desktop Application
 
 ## Overview
 
-Welcome to the FileRevolution Desktop Application repository! This project aims to redefine file management by providing an advanced desktop application similar to GitHub, with a focus on a user-friendly interface, top-tier security, and a seamless user experience.
+Welcome to the File Managment Desktop Application repository! This collaborative project by [Hemant Kumar Kashyap](https://github.com/hemant052004) and [Pooja Singhad](https://github.com/friendsusername) aims to redefine file management by providing an advanced desktop application similar to GitHub. The focus is on a user-friendly interface, top-tier security, and a seamless user experience.
 
 ## Features
 
@@ -42,21 +41,13 @@ Our project is built on the following principles:
 - **Top-Tier Security:** Implementing robust security measures to protect user data and privacy.
 - **Seamless User Experience:** Ensuring a smooth and intuitive interaction for optimal user satisfaction.
 
-## Getting Started
+## Contributors
 
-To get started with the FileRevolution Desktop Application, follow the instructions in the [Installation Guide](docs/INSTALLATION.md).
+This project is a collaborative effort by:
 
-## Contribution
+- [Hemant Kumar Kashyap](https://github.com/hemant052004)
+- [Pooja Singhad](https://github.com/friendsusername)
 
-Contributions to the project are encouraged! Please read our [Contribution Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Support
-
-For any questions or issues, please [open a new issue](https://github.com/yourusername/your-repo/issues).
+We appreciate the hard work and dedication put into developing and maintaining this project.
 
 Thank you for using FileRevolution! We hope it transforms your file management experience.
-
