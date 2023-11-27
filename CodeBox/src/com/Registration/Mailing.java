@@ -45,7 +45,7 @@ public class Mailing {
        public void getEmailId(String username,String email){
        //   String message = "Mail got ....";
         String subject = "Regsitration Successfull for Codebox !!!";
-        String from = "codeboxp1@gmail.com";
+        String from = "example@gmail.com";
         try {
             InternetAddress fromAddress = new InternetAddress(from);
                sendAttach(username,subject,email, fromAddress);
@@ -55,7 +55,7 @@ public class Mailing {
     }
     
   public void sendOtp(String username,String email){
-  String from = "codeboxp1@gmail.com";
+  String from = "example@gmail.com";
     try {
         InternetAddress fromAddress = new InternetAddress(from);
         sendEmail(this, username, email, fromAddress); // Pass 'this' as the first parameter
@@ -65,7 +65,7 @@ public class Mailing {
     }
        
   public void sendOtp(String email){
-  String from = "codeboxp1@gmail.com";
+  String from = "example@gmail.com";
     try {
         InternetAddress fromAddress = new InternetAddress(from);
         sendEmail(this,email, fromAddress); // Pass 'this' as the first parameter
@@ -91,7 +91,7 @@ private static void sendEmail(Mailing mailingInstance, String username, String t
         Session s = Session.getInstance(p, new Authenticator() {
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication("codeboxp1@gmail.com", "wolx qzyl xgwv egpy");
+                return new PasswordAuthentication("example@gmail.com", "password");
             }
 
         });
@@ -123,7 +123,7 @@ private static void sendEmail(Mailing mailingInstance, String username, String t
                     + "as it is valid for a single use only and helps us verify your identity.\n" +
 "\n" +
 "If you did not attempt to Register in or have any concerns about the security of your account, "
-                    + "please contact our support team immediately at \n kashyaphemant2004@gmail.com   +91 7803026553\n " +
+                    + "please contact our support team immediately at \n Codeboxp1@gmail.com   \n " +
 "\n" +
 "Thank you for choosing CODEBOX.\n" +
 "\n" +
@@ -157,7 +157,7 @@ private static void sendEmail(Mailing mailingInstance,String to, InternetAddress
         Session s = Session.getInstance(p, new Authenticator() {
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication("codeboxp1@gmail.com", "wolx qzyl xgwv egpy");
+                return new PasswordAuthentication("example@gmail.com", "password");
             }
 
         });
@@ -232,7 +232,7 @@ private static void sendEmail(Mailing mailingInstance,String to, InternetAddress
         Session s = Session.getInstance(p, new Authenticator() {
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication("codeboxp1@gmail.com", "wolx qzyl xgwv egpy");
+                return new PasswordAuthentication("example@gmail.com", "password");
             }
 
         });
@@ -265,7 +265,7 @@ private static void sendEmail(Mailing mailingInstance,String to, InternetAddress
 "If you have any questions, concerns, or feedback, please dont hesitate to contact us Our team is always ready to assist you\n\n" +
 "Thank you once again for choosing CodeBox. We hope you have a wonderful experience with us.\n\n" +                   
 "Best regards,\n\n" +
-"You Know who I am 😎");
+"Codebox ");
             
            Mimefile.attachFile(path);
            
