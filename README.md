@@ -3,7 +3,7 @@
 
 ## Overview
 
-Welcome to the File Managment Desktop Application repository! This collaborative project by [Hemant Kumar Kashyap](https://github.com/hemant052004) and [Pooja Singhad](https://github.com/friendsusername) aims to redefine file management by providing an advanced desktop application similar to GitHub. The focus is on a user-friendly interface, top-tier security, and a seamless user experience.
+Welcome to the File Managment Desktop Application repository! This collaborative project by [Hemant Kumar Kashyap](https://github.com/hemantkkashyap) and [Pooja Singhad](https://github.com/friendsusername) aims to redefine file management by providing an advanced desktop application similar to GitHub. The focus is on a user-friendly interface, top-tier security, and a seamless user experience.
 
 ## Features
 
